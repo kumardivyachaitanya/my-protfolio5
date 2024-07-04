@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5546296.css",
+    "main.js": "/static/js/main.31a52677.js",
+    "static/media/soorme.png": "/static/media/soorme.9ffe81f139b43bd55573.png",
+    "static/media/profile.png": "/static/media/profile.d29922173b9b12e2497e.png",
+    "static/media/gaminggeeks-logo.png": "/static/media/gaminggeeks-logo.950766930994ce13de0b.png",
+    "static/media/nitj.png": "/static/media/nitj.51d10f22a9290a077db9.png",
+    "static/media/asm.png": "/static/media/asm.5ea6deb406860dc229cb.png",
+    "static/media/msp.png": "/static/media/msp.e4aa666cc416231c6311.png",
+    "static/media/Resume - Sahib Singh.pdf": "/static/media/Resume - Sahib Singh.38bef9bbf07e7c3215a0.pdf",
+    "static/media/soorme-logo.png": "/static/media/soorme-logo.01da9affe66b2c2877b2.png",
+    "static/media/url-shortner.png": "/static/media/url-shortner.0e6cdf04a000f799c7eb.png",
+    "static/media/backend2.png": "/static/media/backend2.1fc76bbdd699ed245271.png",
+    "static/media/frontend2.png": "/static/media/frontend2.1ce5df121bd6ef1ba154.png",
+    "static/media/portfolio.png": "/static/media/portfolio.111e03ec33366db8632d.png",
+    "static/media/social-media.png": "/static/media/social-media.a06f5dc6ee94863ace5f.png",
+    "index.html": "/index.html",
+    "main.a5546296.css.map": "/static/css/main.a5546296.css.map",
+    "main.31a52677.js.map": "/static/js/main.31a52677.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5546296.css",
+    "static/js/main.31a52677.js"
+  ]
+}

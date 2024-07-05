@@ -2,9 +2,10 @@ import React from 'react';
 import './About.scss';
 import about from '../../data/about';
 
-import leetcodeImage from '/Users/kumardivyachaitanya/Documents/web devlopment/portfolio-1/src/assets/leetcode image.png';
-import geeksforgeeksImage from '/Users/kumardivyachaitanya/Documents/web devlopment/portfolio-1/src/assets/geeksforgeeks_image.png';
-import codechefImage from '/Users/kumardivyachaitanya/Documents/web devlopment/portfolio-1/src/assets/codechefimage.jpeg';
+const leetcodeImage = "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png";
+const geeksforgeeksImage = "https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg";
+const codechefImage = "https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg";
+
 
 const About = () => {
   return (
